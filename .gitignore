@@ -1,0 +1,15 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Raw dataset (download locally via scripts/download_data.py)
+data/
+
+# Virtual environments & OS files
+.venv/
+venv/
+env/
+.DS_Store
+Thumbs.db
