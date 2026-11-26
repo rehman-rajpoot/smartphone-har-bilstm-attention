@@ -1,0 +1,10 @@
+channel,mean,std
+body_acc_x,-0.000702,0.198956
+body_acc_y,-0.000268,0.122643
+body_acc_z,-0.000322,0.109058
+body_gyro_x,-0.000759,0.401607
+body_gyro_y,-0.000765,0.389407
+body_gyro_z,-0.000292,0.265229
+total_acc_x,0.800009,0.419517
+total_acc_y,0.020705,0.383151
+total_acc_z,0.076466,0.376763
